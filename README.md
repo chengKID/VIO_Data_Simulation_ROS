@@ -17,10 +17,10 @@ A few updates to the instructions above were needed.
 
 ```bash
 $> cd ~
-$> git clone https://github.com:chengKID/VIO_Data_Simulation.git
-$> cd VIO_Data_Simulation
+$> git clone https://github.com:chengKID/VIO_Data_Simulation_ROS.git
+$> cd VIO_Data_Simulation_ROS
 $> catkin_make
 ```
 
 ## Pyton Tools
-	There are some python scripts in directories "phyton_tool". Feel free to use this small tools to draw trajectory, evaluation historgram, and so on.
+There are some python scripts in directories "phyton_tool". Feel free to use this small tools to draw trajectory, evaluation historgram, and so on.
